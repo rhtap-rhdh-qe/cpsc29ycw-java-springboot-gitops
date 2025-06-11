@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cpsc29ycw-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cpsc29ycw-java-springboot
